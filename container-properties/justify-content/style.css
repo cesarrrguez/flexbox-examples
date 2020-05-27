@@ -1,0 +1,30 @@
+/* justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly; */
+
+.container {
+  margin: 20px 0;
+  padding: 20px 0;
+}
+
+.container.justify-content-flex-start {
+  justify-content: flex-start;
+}
+
+.container.justify-content-flex-end {
+  justify-content: flex-end;
+}
+
+.container.justify-content-center {
+  justify-content: center;
+}
+
+.container.justify-content-space-between {
+  justify-content: space-between;
+}
+
+.container.justify-content-space-around {
+  justify-content: space-around;
+}
+
+.container.justify-content-space-evenly {
+  justify-content: space-evenly;
+}
