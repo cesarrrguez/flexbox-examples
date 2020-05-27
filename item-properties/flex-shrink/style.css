@@ -1,0 +1,22 @@
+/* flex-shrink: number */
+
+.item {
+  width: 25%;
+  flex-shrink: 1;
+}
+
+.item.flex-shrink-1 {
+  flex-shrink: 1;
+}
+
+.item.flex-shrink-2 {
+  flex-shrink: 2;
+}
+
+.item.flex-shrink-3 {
+  flex-shrink: 3;
+}
+
+.item.flex-shrink-4 {
+  flex-shrink: 4;
+}
