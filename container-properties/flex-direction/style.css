@@ -1,0 +1,25 @@
+/* flex-direction: row | row-reverse | column | column-reverse; */
+
+.container {
+  width: 100%;
+}
+
+.item {
+  flex-wrap: wrap;
+}
+
+.container.flex-direction-row {
+  flex-direction: row;
+}
+
+.container.flex-direction-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.container.flex-direction-column {
+  flex-direction: column;
+}
+
+.container.flex-direction-column-reverse {
+  flex-direction: column-reverse;
+}
