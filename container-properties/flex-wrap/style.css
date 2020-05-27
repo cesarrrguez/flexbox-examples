@@ -1,0 +1,23 @@
+/* flex-wrap: nowrap | wrap | wrap-reverse; */
+
+.container {
+  width: 400px;
+}
+
+@media only screen and (max-width: 580px) {
+  .container {
+    width: 200px;
+  }
+}
+
+.container.flex-wrap-nowrap {
+  flex-wrap: nowrap;
+}
+
+.container.flex-wrap-wrap {
+  flex-wrap: wrap;
+}
+
+.container.flex-wrap-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
