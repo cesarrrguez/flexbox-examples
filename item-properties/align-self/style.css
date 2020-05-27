@@ -1,0 +1,39 @@
+/* align-self: auto | flex-start | flex-end | center | baseline | stretch; */
+
+.container {
+  height: 300px;
+  align-items: center;
+}
+
+.item {
+  height: auto;
+}
+
+.item:nth-of-type(2),
+.item:nth-of-type(4) {
+  font-size: 50px;
+}
+
+.item.align-self-auto {
+  align-self: auto;
+}
+
+.item.align-self-flex-start {
+  align-self: flex-start;
+}
+
+.item.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.item.align-self-center {
+  align-self: center;
+}
+
+.item.align-self-baseline {
+  align-self: baseline;
+}
+
+.item.align-self-stretch {
+  align-self: stretch;
+}
