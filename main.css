@@ -69,6 +69,26 @@ a:hover {
   background-color: #90be6d;
 }
 
+.item:nth-of-type(6) {
+  background-color: #f94144;
+}
+
+.item:nth-of-type(7) {
+  background-color: #f3722c;
+}
+
+.item:nth-of-type(8) {
+  background-color: #f8961e;
+}
+
+.item:nth-of-type(9) {
+  background-color: #f9c74f;
+}
+
+.item:nth-of-type(10) {
+  background-color: #90be6d;
+}
+
 @media only screen and (max-width: 580px) {
   .container {
     padding: 20px;
