@@ -1,6 +1,6 @@
 # Flexbox examples
 
-[![RELEASE](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/cesarrrguez/cesarrrguez.github.io/releases/tag/v1.0.0)
+[![RELEASE](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/cesarrrguez/flexbox-examples/releases/tag/v1.0.0)
 [![LICENSE](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Some _Flexbox_ examples to see the different flex properties.
